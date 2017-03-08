@@ -1,0 +1,11 @@
+{
+    "name": "hostile-vegetation",
+    "version": "0.1.0",
+    "title": "Hostile Vegetation",
+    "author": "Globnobulous",
+    "context": "globnobulous@bluesmoke.ca",
+    "homepage": "http://bluesmoke.ca/hostile-vegetation",
+    "description": "Various plantlife that become aggressive and spread when exposed to pollution",
+    "factorio_version": "0.14",
+    "dependencies": ["base"]
+}
