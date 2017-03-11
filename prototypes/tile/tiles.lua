@@ -3,6 +3,7 @@ data:extend(
   {
     type = "tile",
     name = "swamp",
+    needs_correction=false,
     collision_mask =
     {
       "resource-layer",
@@ -45,7 +46,6 @@ data:extend(
         count = 8
       }
     },
-    allowed_neighbors = { "grass" },
     map_color={r=31, g=48, b=18},
     ageing=0.0005
   }
